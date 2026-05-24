@@ -1,0 +1,29 @@
+{
+	"$schema": "https://biomejs.dev/schemas/2.4.15/schema.json",
+	"html": {
+		"experimentalFullSupportEnabled": true
+	},
+	"css": {
+		"formatter": {
+			"enabled": true
+		}
+	},
+	"formatter": {
+		"enabled": true
+	},
+	"javascript": {
+		"formatter": {
+			"semicolons": "asNeeded"
+		}
+	},
+	"overrides": [
+		{
+			"includes": ["*.vue"],
+			"linter": {
+				"rules": {
+					"recommended": true
+				}
+			}
+		}
+	]
+}
