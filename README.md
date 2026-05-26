@@ -2,6 +2,8 @@
 
 A comprehensive comparison of **React** and **Vue** frameworks with different state management solutions. This project implements the same CRUD application (Products App) using multiple tech stacks to evaluate performance, developer experience, and architectural differences.
 
+[![Security](https://img.shields.io/badge/security-info-blue)](./SECURITY.md) [![License](https://img.shields.io/badge/license-open%20source-green)](./LICENSE)
+
 ## 📋 Project Overview
 
 This monorepo contains three fully-functional implementations of a **Products CRUD Application**, each using different frameworks and state management libraries:
