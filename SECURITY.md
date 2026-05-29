@@ -16,7 +16,7 @@ This is an educational/demonstration project. I recommend staying up-to-date wit
 
 If you discover a security vulnerability in this project, please **do not** open a public issue. Instead:
 
-1. Email security details to: **hughjosephnguyen@outlook.com**
+1. Email security details to: **computer.science.for.everyone.usa@gmail.com**
 2. Include:
    - Description of the vulnerability
    - Steps to reproduce
@@ -99,7 +99,7 @@ We recommend:
 
 ## Contact
 
-For security questions or concerns: **hughjosephnguyen@outlook.com**
+For security questions or concerns: **computer.science.for.everyone.usa@gmail.com**
 
 ---
 

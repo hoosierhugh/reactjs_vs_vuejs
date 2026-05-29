@@ -2,6 +2,8 @@
 
 A comprehensive comparison of **React** and **Vue** frameworks with different state management solutions. This project implements the same CRUD application (Products App) using multiple tech stacks to evaluate performance, developer experience, and architectural differences.
 
+The accompanying YouTube video provides an in-depth walkthrough of the code, architecture, and performance benchmarks: [React vs Vue Performance Comparison](https://www.youtube.com/watch?v=hCyv92mHJPM).
+
 [![Security](https://img.shields.io/badge/security-info-blue)](./SECURITY.md) [![License](https://img.shields.io/badge/license-open%20source-green)](./LICENSE)
 
 ## 📋 Project Overview
